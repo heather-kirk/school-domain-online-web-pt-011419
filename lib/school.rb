@@ -15,6 +15,6 @@ class School
   
   def sort
     sorted = []
-    sorted.each do 
+    sorted.each
   end 
 end 
