@@ -8,7 +8,8 @@ class School
   def add_student
   end 
   
-  def grade
+  def grade(grade)
+    roster[grade]
   end 
   
   def sort
